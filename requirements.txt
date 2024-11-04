@@ -1,0 +1,9 @@
+transformers
+torch
+numpy<2
+gitpython
+jsonlines
+scikit-learn
+Levenshtein
+cdifflib
+nltk
